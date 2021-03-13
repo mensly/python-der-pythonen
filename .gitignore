@@ -1,1 +1,5 @@
 input
+input.txt
+output.txt
+montypython.hdf5
+textgenrnn_weights.hdf5
